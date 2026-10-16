@@ -1,1 +1,0 @@
-Amgad Nabhan Portfolio Website v2. Open index.html in a modern browser. Keep assets and Amgad-Nabhan-CV.pdf alongside index.html. Dashboard and Pareto values are illustrative only.
